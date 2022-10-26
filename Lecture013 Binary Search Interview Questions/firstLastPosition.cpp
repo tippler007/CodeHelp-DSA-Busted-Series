@@ -23,6 +23,8 @@ int firstOcc(vector<int>& arr, int n, int key) {
     return ans;
 }
 
+# Devansh was here
+
 int lastOcc(vector<int>& arr, int n, int key) {
 
     int s = 0, e = n-1;
